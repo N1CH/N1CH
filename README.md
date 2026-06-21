@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nicanor Chuma
 =====================================================================================================================================
 
-Programming Student and Full-Stack Web Developer
+Programming Student and Full-Stack Developer
 -------------------------
 I am a Programming student at UTN-FRGP with a strong foundation in web development and cross-platform programming, gained through various courses. Above all, I am deeply passionate about learning and continuously expanding my skills to grow both personally and professionally.
 
 *   🌍  I'm based in Buenos Aires, Argentina
 *   🖥️  See my [portfolio](http://nicanor.dev)
 *   ✉️  You can contact me at [nicanor.chuma@gmail.com](mailto:nicanor.chuma@gmail.com)
-*   🧠  I'm learning C#
 *   🤝  I'm open to collaborating on projects
 
 ### Skills
